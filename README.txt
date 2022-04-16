@@ -1,4 +1,4 @@
-
+test2 sonarcloud
 Installation:
 
  - Open the "conf.php" and supply your database details, (ie... host, username, password)
